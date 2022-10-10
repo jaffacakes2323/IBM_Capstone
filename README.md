@@ -35,7 +35,7 @@ Week 4 - Data visualisation (Visualising distribution, relationship, composition
 - DataVisualisation.ipynb (main folder for assignment)
 - m4_survey_data.sqlite (data used for exploring)
 
-Week 5 - Using IBM Cognos Analytics to create a dashboard (Screenshots included here, as link maybe inactive)
+Week 5 - Using IBM Cognos Analytics to create a dashboard (some screenshots included here)
 - - IBM Cloud Pak for data (HTTP link for dashboard)
 - survery_data_demographics.csv (data used for dashboard)
 - survey_data_technologies_normalised.csv (data used for dashboard)
