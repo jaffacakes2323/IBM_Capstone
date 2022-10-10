@@ -12,7 +12,7 @@ Libraries included:
 * Matplotlib
 * Seaborn
 
-Week 1 - This file has 3 notebooks for import data from APIs, web pages, and starts some exploratory analysis:
+Week 1 - This folder has 3 notebooks for import data from APIs, web pages, and starts some exploratory analysis:
 (1) API folder:
 - Jobs_API.ipynb (the Flask file used to host API, created by course providers. Everything that follows is my code and work)
 - Collecting_Jobs_data_Using_API.ipynb (first assignment for pulling data from API)
